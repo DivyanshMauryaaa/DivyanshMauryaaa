@@ -42,8 +42,8 @@
 ## 🚀 Stats That Slap
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshm510&show_icons=true&theme=radical&hide=contribs&hide_title=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshm510&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshMauryaaa&show_icons=true&theme=radical&hide=contribs&hide_title=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshMauryaaa&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -55,6 +55,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyanshm510&theme=tokyonight&no-frame=true&title=Stars,Commits,Followers,Repos&margin-w=10" />
-</p>
+<!--<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=divyanshMauryaaa&theme=tokyonight&no-frame=true&title=Stars,Commits,Followers,Repos&margin-w=10" />
+</p>-->
