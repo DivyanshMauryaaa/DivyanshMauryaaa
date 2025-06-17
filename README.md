@@ -20,7 +20,7 @@
 ## ⚙️ My Tech Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,java,python,nodejs,git,github,postgres,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,nodejs,git,github,vscode,flutter,dart,firebase,supabase&theme=dark" />
 </div>
 
 ---
@@ -49,7 +49,7 @@
 ## 🗿 Quote of the Day
 
 > _"I ain't a nerd. I just code good when i'm alone in a dark room with just ma' laptop..."_  
-> — Divyansh, while flashing B site solo 💣
+> — Me
 
 ---
 
