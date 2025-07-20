@@ -50,8 +50,6 @@ A comprehensive project management and workflow optimization tool designed to st
 
 - **GitHub:** [@divyanshMauryaaa](https://github.com/divyanshMauryaaa)
 - **Location:** India
-- **Status:** Open to collaboration and learning opportunities
-
 ---
 
 *"Quality code is not written by accident. It's the result of consistent effort, continuous learning, and attention to detail."*
