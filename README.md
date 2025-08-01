@@ -1,7 +1,7 @@
 # Divyansh Maurya
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Developer" alt="Typing SVG" />
 </div>
 
 ## About Me
