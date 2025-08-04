@@ -26,8 +26,8 @@ I'm a passionate software developer currently in 9th grade with ambitions to pur
 
 ## Current Projects
 
-### FlowFix
-A comprehensive project management and workflow optimization tool designed to streamline team collaboration and productivity.
+### AppPad
+A comprehensive project management tool built especially for solo software-developers.
 
 ## GitHub Statistics
 
