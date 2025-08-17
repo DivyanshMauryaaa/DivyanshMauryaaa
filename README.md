@@ -1,3 +1,4 @@
+<!--
 # Divyansh Maurya
 
 <div align="center">
@@ -53,3 +54,4 @@ A comprehensive project management tool built especially for solo software-devel
 ---
 
 *"Quality code is not written by accident. It's the result of consistent effort, continuous learning, and attention to detail."*
+-->
