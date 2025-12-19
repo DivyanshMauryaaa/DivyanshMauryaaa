@@ -1,4 +1,4 @@
-<!--
+
 # Divyansh Maurya
 
 <div align="center">
@@ -40,18 +40,11 @@ A comprehensive project management tool built especially for solo software-devel
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshMauryaaa&layout=compact&theme=default" />
 </div>
 
-## Professional Goals
+##  Goals
 
-- Pursuing computer science education in London
+- Pursuing computer science education in the UK for future
 - Building innovative solutions that solve real-world problems
-- Contributing to open-source projects
 - Continuous learning and skill development
-
-## Contact
-
-- **GitHub:** [@divyanshMauryaaa](https://github.com/divyanshMauryaaa)
-- **Location:** India
 ---
 
 *"Quality code is not written by accident. It's the result of consistent effort, continuous learning, and attention to detail."*
--->
