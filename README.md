@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a passionate software developer currently in 9th grade with ambitions to pursue higher education in London. I specialize in full-stack web development and mobile application development, with a focus on creating efficient, scalable solutions.
+I'm a passionate software developer currently in 10th grade with ambitions to pursue higher education in London. I specialize in full-stack web development and mobile application development, with a focus on creating efficient, scalable solutions.
 
 **Current Focus:** Building `AppPad` - a comprehensive project management solution
 
